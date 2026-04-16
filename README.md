@@ -10,16 +10,6 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
-<style>
-  @keyframes typing {
-    from { width: 0; }
-    to   { width: 100%; }
-  }
-  @keyframes blink {
-    0%, 100% { border-right-color: currentColor; }
-    50%      { border-right-color: transparent; }
-  }
-</style>
 
 <!--
 **Lexxxi42/Lexxxi42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
